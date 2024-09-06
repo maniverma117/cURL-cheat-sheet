@@ -1,4 +1,4 @@
-Here’s a concise cURL cheat sheet covering essential commands and options:
+### Here’s a concise cURL cheat sheet covering essential commands and options
 
 ---
 

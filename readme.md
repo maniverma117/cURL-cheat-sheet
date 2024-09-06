@@ -31,7 +31,7 @@
   ```
 - **Multiple Headers**
   ```bash
-  curl -H "Authorization: Bearer token" -H "Accept: application/json" https://example.com
+  curl -H "Host: a.example" -H "Authorization: Bearer token" -H "Accept: application/json" https://example.com
   ```
 
 ---
